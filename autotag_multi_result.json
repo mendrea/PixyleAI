@@ -1,0 +1,1959 @@
+{
+   "no_detections": [],
+   "errors": [],
+   "detected_categories": {
+      "jeans": {
+         "products": {
+            "150282_2812-27/32": {
+               "category": "jeans",
+               "attributes": {
+                  "rise": {
+                     "correct": [
+                        {
+                           "mid-rise": 0.01982
+                        }
+                     ],
+                     "all": [
+                        {
+                           "mid-rise": 0.01982
+                        },
+                        {
+                           "high-rise": 0.00491
+                        },
+                        {
+                           "low-rise": 7.7E-4
+                        }
+                     ]
+                  },
+                  "fit": {
+                     "correct": [
+                        {
+                           "skinny-fit": 0.05864
+                        }
+                     ],
+                     "all": [
+                        {
+                           "skinny-fit": 0.05864
+                        },
+                        {
+                           "super-slim-fit": 0.05057
+                        },
+                        {
+                           "slim-fit": 0.0425
+                        },
+                        {
+                           "regular-fit": 0.02268
+                        },
+                        {
+                           "super-skinny-fit": 0.02268
+                        },
+                        {
+                           "straight-fit": 0.00286
+                        },
+                        {
+                           "relaxed-fit": 0.00237
+                        },
+                        {
+                           "tailored-fit": 0.00237
+                        },
+                        {
+                           "boyfriend-fit": 0.00188
+                        },
+                        {
+                           "loose-fit": 0.00188
+                        },
+                        {
+                           "flared-fit": 9.1E-4
+                        },
+                        {
+                           "wide-leg-fit": 1.5E-4
+                        },
+                        {
+                           "jogger-fit": 6.0E-5
+                        }
+                     ]
+                  },
+                  "wash": {
+                     "correct": [
+                        {
+                           "medium": 0.55875
+                        }
+                     ],
+                     "all": [
+                        {
+                           "medium": 0.55875
+                        },
+                        {
+                           "dark": 0.46474
+                        },
+                        {
+                           "light": 0.46306
+                        },
+                        {
+                           "damaged": 0.06205
+                        },
+                        {
+                           "coloured": 0
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "blue": 0.76498
+                        }
+                     ],
+                     "all": [
+                        {
+                           "blue": 0.76498
+                        },
+                        {
+                           "gray": 0.02204
+                        },
+                        {
+                           "multicolor": 0.02023
+                        },
+                        {
+                           "black": 0.00314
+                        },
+                        {
+                           "white": 0.0029
+                        },
+                        {
+                           "red": 0.00125
+                        },
+                        {
+                           "green": 0.00122
+                        },
+                        {
+                           "beige": 0.00119
+                        },
+                        {
+                           "ecru": 0.00111
+                        },
+                        {
+                           "pink": 4.4E-4
+                        },
+                        {
+                           "purple": 3.8E-4
+                        },
+                        {
+                           "brown": 2.4E-4
+                        },
+                        {
+                           "orange": 2.4E-4
+                        },
+                        {
+                           "silver": 2.1E-4
+                        },
+                        {
+                           "yellow": 7.0E-5
+                        },
+                        {
+                           "gold": 2.0E-5
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "bleached": 0.06745
+                        }
+                     ],
+                     "all": [
+                        {
+                           "bleached": 0.06745
+                        },
+                        {
+                           "plain": 0.01849
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "melange": 0.00111
+                        },
+                        {
+                           "dotted": 5.2E-4
+                        },
+                        {
+                           "logoprint": 5.1E-4
+                        },
+                        {
+                           "striped": 4.7E-4
+                        },
+                        {
+                           "lace": 4.4E-4
+                        },
+                        {
+                           "checked": 3.5E-4
+                        },
+                        {
+                           "metallic": 2.6E-4
+                        },
+                        {
+                           "floral": 2.0E-4
+                        },
+                        {
+                           "studded": 1.0E-4
+                        },
+                        {
+                           "paisley": 7.0E-5
+                        },
+                        {
+                           "lurex": 6.0E-5
+                        },
+                        {
+                           "animal": 5.0E-5
+                        },
+                        {
+                           "leopard": 4.0E-5
+                        },
+                        {
+                           "color-block": 3.0E-5
+                        },
+                        {
+                           "leaf": 3.0E-5
+                        },
+                        {
+                           "glitter": 2.0E-5
+                        },
+                        {
+                           "chevron": 2.0E-5
+                        },
+                        {
+                           "ruffle": 0
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#53799d",
+                  "#819eb7",
+                  "#688bab"
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-19119847-MDL-FNT.png",
+               "extra_images": [
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19119847-MDL-SDE.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19119847-MDL-BCK.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19119847-MDL-CRP.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19119847-FNT.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19119847-BCK.png"
+               ],
+               "verified": false
+            },
+            "150980_2986-10": {
+               "category": "jeans",
+               "attributes": {
+                  "rise": {
+                     "correct": [
+                        {
+                           "mid-rise": 0.06616
+                        }
+                     ],
+                     "all": [
+                        {
+                           "mid-rise": 0.06616
+                        },
+                        {
+                           "high-rise": 0.06157
+                        },
+                        {
+                           "low-rise": 6.8E-4
+                        }
+                     ]
+                  },
+                  "fit": {
+                     "correct": [
+                        {
+                           "slim-fit": 0.01691
+                        }
+                     ],
+                     "all": [
+                        {
+                           "slim-fit": 0.01691
+                        },
+                        {
+                           "regular-fit": 0.01502
+                        },
+                        {
+                           "super-skinny-fit": 0.01502
+                        },
+                        {
+                           "straight-fit": 0.01312
+                        },
+                        {
+                           "super-slim-fit": 0.01109
+                        },
+                        {
+                           "relaxed-fit": 0.00721
+                        },
+                        {
+                           "tailored-fit": 0.00721
+                        },
+                        {
+                           "skinny-fit": 0.00526
+                        },
+                        {
+                           "flared-fit": 0.00224
+                        },
+                        {
+                           "boyfriend-fit": 0.00129
+                        },
+                        {
+                           "loose-fit": 0.00129
+                        },
+                        {
+                           "jogger-fit": 7.1E-4
+                        },
+                        {
+                           "wide-leg-fit": 1.1E-4
+                        }
+                     ]
+                  },
+                  "wash": {
+                     "correct": [
+                        {
+                           "dark": 0.50022
+                        }
+                     ],
+                     "all": [
+                        {
+                           "dark": 0.50022
+                        },
+                        {
+                           "medium": 0.47945
+                        },
+                        {
+                           "light": 0.39783
+                        },
+                        {
+                           "damaged": 0.01491
+                        },
+                        {
+                           "coloured": 0
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "gray": 0.64368
+                        }
+                     ],
+                     "all": [
+                        {
+                           "gray": 0.64368
+                        },
+                        {
+                           "blue": 0.26641
+                        },
+                        {
+                           "black": 0.07283
+                        },
+                        {
+                           "multicolor": 0.01685
+                        },
+                        {
+                           "green": 0.00632
+                        },
+                        {
+                           "silver": 0.00367
+                        },
+                        {
+                           "brown": 0.0025
+                        },
+                        {
+                           "purple": 0.00115
+                        },
+                        {
+                           "red": 8.6E-4
+                        },
+                        {
+                           "white": 7.3E-4
+                        },
+                        {
+                           "pink": 7.1E-4
+                        },
+                        {
+                           "ecru": 3.8E-4
+                        },
+                        {
+                           "beige": 3.5E-4
+                        },
+                        {
+                           "orange": 1.6E-4
+                        },
+                        {
+                           "yellow": 1.3E-4
+                        },
+                        {
+                           "gold": 1.1E-4
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "plain": 0.22062
+                        }
+                     ],
+                     "all": [
+                        {
+                           "plain": 0.22062
+                        },
+                        {
+                           "bleached": 0.02981
+                        },
+                        {
+                           "melange": 0.01874
+                        },
+                        {
+                           "logoprint": 0.00608
+                        },
+                        {
+                           "striped": 0.00478
+                        },
+                        {
+                           "metallic": 0.00304
+                        },
+                        {
+                           "dotted": 0.00236
+                        },
+                        {
+                           "checked": 0.00197
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "animal": 0.00126
+                        },
+                        {
+                           "studded": 0.00126
+                        },
+                        {
+                           "lurex": 0.00124
+                        },
+                        {
+                           "color-block": 5.5E-4
+                        },
+                        {
+                           "lace": 4.0E-4
+                        },
+                        {
+                           "glitter": 2.5E-4
+                        },
+                        {
+                           "paisley": 2.0E-4
+                        },
+                        {
+                           "chevron": 1.9E-4
+                        },
+                        {
+                           "floral": 1.7E-4
+                        },
+                        {
+                           "leopard": 7.0E-5
+                        },
+                        {
+                           "leaf": 5.0E-5
+                        },
+                        {
+                           "ruffle": 4.0E-5
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#434347",
+                  "#4c4c51",
+                  ""
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-19124247-FNT.png",
+               "extra_images": [
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19124247-BCK.png"
+               ],
+               "verified": false
+            }
+         },
+         "number_of_products": 2,
+         "verified_products": 0
+      },
+      "jackets": {
+         "products": {
+            "150444_90-L": {
+               "category": "jackets",
+               "attributes": {
+                  "collar": {
+                     "correct": [
+                        {
+                           "v-neck": 0.1318
+                        }
+                     ],
+                     "all": [
+                        {
+                           "v-neck": 0.1318
+                        },
+                        {
+                           "notched-collar": 0.0572
+                        },
+                        {
+                           "classic": 0.03096
+                        },
+                        {
+                           "button-down": 0.02904
+                        },
+                        {
+                           "high-neck": 0.02712
+                        },
+                        {
+                           "round-neck": 0.01172
+                        },
+                        {
+                           "hoodie": 0.01008
+                        },
+                        {
+                           "shawl-collar": 0.00615
+                        },
+                        {
+                           "turtleneck": 0.00439
+                        },
+                        {
+                           "off-shoulder": 0.00216
+                        },
+                        {
+                           "other": 0.0015
+                        },
+                        {
+                           "boat-neckline": 0.00109
+                        },
+                        {
+                           "sweetheart": 9.5E-4
+                        },
+                        {
+                           "square-neck": 9.2E-4
+                        },
+                        {
+                           "collarless": 8.2E-4
+                        },
+                        {
+                           "crewneck": 7.3E-4
+                        },
+                        {
+                           "cowl-neck": 1.3E-4
+                        },
+                        {
+                           "grandad": 0
+                        }
+                     ]
+                  },
+                  "sleeve_length": {
+                     "correct": [
+                        {
+                           "long-sleeve": 0.3409
+                        }
+                     ],
+                     "all": [
+                        {
+                           "long-sleeve": 0.3409
+                        },
+                        {
+                           "3/4-sleeve": 0.03606
+                        },
+                        {
+                           "medium-sleeve": 0.02066
+                        },
+                        {
+                           "sleeveless": 0.01273
+                        },
+                        {
+                           "short-sleeve": 0.00527
+                        },
+                        {
+                           "straps": 0.00375
+                        },
+                        {
+                           "strapless": 0.00133
+                        }
+                     ]
+                  },
+                  "jackets_length": {
+                     "correct": [
+                        {
+                           "medium__jacket": 0.11765
+                        }
+                     ],
+                     "all": [
+                        {
+                           "medium__jacket": 0.11765
+                        },
+                        {
+                           "short__jacket": 0.0839
+                        },
+                        {
+                           "long": 0.04322
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "black": 0.77669
+                        }
+                     ],
+                     "all": [
+                        {
+                           "black": 0.77669
+                        },
+                        {
+                           "multicolor": 0.02082
+                        },
+                        {
+                           "gray": 0.01917
+                        },
+                        {
+                           "white": 0.00813
+                        },
+                        {
+                           "blue": 0.00736
+                        },
+                        {
+                           "purple": 0.00281
+                        },
+                        {
+                           "red": 0.00205
+                        },
+                        {
+                           "brown": 0.0016
+                        },
+                        {
+                           "green": 0.00157
+                        },
+                        {
+                           "beige": 4.3E-4
+                        },
+                        {
+                           "silver": 4.1E-4
+                        },
+                        {
+                           "ecru": 3.7E-4
+                        },
+                        {
+                           "pink": 3.4E-4
+                        },
+                        {
+                           "yellow": 2.3E-4
+                        },
+                        {
+                           "orange": 1.5E-4
+                        },
+                        {
+                           "gold": 5.0E-5
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "plain": 0.31534
+                        }
+                     ],
+                     "all": [
+                        {
+                           "plain": 0.31534
+                        },
+                        {
+                           "ruffle": 0.12162
+                        },
+                        {
+                           "color-block": 0.00522
+                        },
+                        {
+                           "striped": 0.00481
+                        },
+                        {
+                           "dotted": 0.003
+                        },
+                        {
+                           "checked": 0.00288
+                        },
+                        {
+                           "logoprint": 0.0026
+                        },
+                        {
+                           "lace": 0.00217
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "floral": 0.00146
+                        },
+                        {
+                           "studded": 0.00144
+                        },
+                        {
+                           "animal": 9.0E-4
+                        },
+                        {
+                           "leopard": 9.0E-4
+                        },
+                        {
+                           "metallic": 5.6E-4
+                        },
+                        {
+                           "chevron": 2.9E-4
+                        },
+                        {
+                           "leaf": 2.4E-4
+                        },
+                        {
+                           "melange": 1.6E-4
+                        },
+                        {
+                           "paisley": 1.6E-4
+                        },
+                        {
+                           "glitter": 4.0E-5
+                        },
+                        {
+                           "lurex": 3.0E-5
+                        },
+                        {
+                           "bleached": 3.0E-5
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#242325",
+                  "#2a282b",
+                  "#1e1c1e"
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-19124257-FNT.png",
+               "extra_images": [
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19124257-BCK.png"
+               ],
+               "verified": false
+            },
+            "153268_2917-10": {
+               "category": "jackets",
+               "attributes": {
+                  "collar": {
+                     "correct": [
+                        {
+                           "hoodie": 0.08439
+                        }
+                     ],
+                     "all": [
+                        {
+                           "hoodie": 0.08439
+                        },
+                        {
+                           "high-neck": 0.0477
+                        },
+                        {
+                           "button-down": 0.04377
+                        },
+                        {
+                           "classic": 0.03983
+                        },
+                        {
+                           "notched-collar": 0.01217
+                        },
+                        {
+                           "round-neck": 0.01071
+                        },
+                        {
+                           "v-neck": 0.00649
+                        },
+                        {
+                           "crewneck": 0.00594
+                        },
+                        {
+                           "turtleneck": 0.00388
+                        },
+                        {
+                           "other": 0.0015
+                        },
+                        {
+                           "boat-neckline": 7.5E-4
+                        },
+                        {
+                           "square-neck": 4.2E-4
+                        },
+                        {
+                           "shawl-collar": 3.9E-4
+                        },
+                        {
+                           "collarless": 2.7E-4
+                        },
+                        {
+                           "sweetheart": 2.1E-4
+                        },
+                        {
+                           "off-shoulder": 1.6E-4
+                        },
+                        {
+                           "cowl-neck": 1.4E-4
+                        },
+                        {
+                           "grandad": 0
+                        }
+                     ]
+                  },
+                  "sleeve_length": {
+                     "correct": [
+                        {
+                           "long-sleeve": 0.18007
+                        }
+                     ],
+                     "all": [
+                        {
+                           "long-sleeve": 0.18007
+                        },
+                        {
+                           "3/4-sleeve": 0.00305
+                        },
+                        {
+                           "medium-sleeve": 0.00251
+                        },
+                        {
+                           "short-sleeve": 0.00197
+                        },
+                        {
+                           "sleeveless": 0.00116
+                        },
+                        {
+                           "straps": 8.5E-4
+                        },
+                        {
+                           "strapless": 9.0E-5
+                        }
+                     ]
+                  },
+                  "jackets_length": {
+                     "correct": [
+                        {
+                           "short__jacket": 0.24228
+                        }
+                     ],
+                     "all": [
+                        {
+                           "short__jacket": 0.24228
+                        },
+                        {
+                           "medium__jacket": 0.09963
+                        },
+                        {
+                           "long": 0.00163
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "yellow": 0.8267
+                        }
+                     ],
+                     "all": [
+                        {
+                           "yellow": 0.8267
+                        },
+                        {
+                           "brown": 0.05175
+                        },
+                        {
+                           "multicolor": 0.03079
+                        },
+                        {
+                           "green": 0.00999
+                        },
+                        {
+                           "orange": 0.00673
+                        },
+                        {
+                           "red": 0.00283
+                        },
+                        {
+                           "gold": 0.00275
+                        },
+                        {
+                           "blue": 0.00208
+                        },
+                        {
+                           "beige": 0.00182
+                        },
+                        {
+                           "black": 0.00139
+                        },
+                        {
+                           "white": 0.00107
+                        },
+                        {
+                           "pink": 0.00101
+                        },
+                        {
+                           "ecru": 6.8E-4
+                        },
+                        {
+                           "gray": 2.3E-4
+                        },
+                        {
+                           "purple": 8.0E-5
+                        },
+                        {
+                           "silver": 4.0E-5
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "plain": 0.21107
+                        }
+                     ],
+                     "all": [
+                        {
+                           "plain": 0.21107
+                        },
+                        {
+                           "logoprint": 0.09672
+                        },
+                        {
+                           "metallic": 0.00475
+                        },
+                        {
+                           "ruffle": 0.00331
+                        },
+                        {
+                           "striped": 0.00316
+                        },
+                        {
+                           "studded": 0.00163
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "animal": 0.00134
+                        },
+                        {
+                           "leopard": 0.00134
+                        },
+                        {
+                           "leaf": 7.6E-4
+                        },
+                        {
+                           "lace": 7.2E-4
+                        },
+                        {
+                           "floral": 6.4E-4
+                        },
+                        {
+                           "melange": 5.5E-4
+                        },
+                        {
+                           "checked": 3.6E-4
+                        },
+                        {
+                           "color-block": 3.6E-4
+                        },
+                        {
+                           "chevron": 2.5E-4
+                        },
+                        {
+                           "dotted": 1.8E-4
+                        },
+                        {
+                           "bleached": 7.0E-5
+                        },
+                        {
+                           "lurex": 6.0E-5
+                        },
+                        {
+                           "paisley": 6.0E-5
+                        },
+                        {
+                           "glitter": 4.0E-5
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#d9b806",
+                  "",
+                  ""
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-19126053-FNT.png",
+               "extra_images": [
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19126053-DTL.png"
+               ],
+               "verified": false
+            }
+         },
+         "number_of_products": 2,
+         "verified_products": 0
+      },
+      "t-shirts_ss": {
+         "products": {
+            "149000_0155-L": {
+               "category": "t-shirts_ss",
+               "attributes": {
+                  "collar": {
+                     "correct": [
+                        {
+                           "round-neck": 0.10759
+                        }
+                     ],
+                     "all": [
+                        {
+                           "round-neck": 0.10759
+                        },
+                        {
+                           "crewneck": 0.07851
+                        },
+                        {
+                           "button-down": 0.0745
+                        },
+                        {
+                           "grandad": 0.05717
+                        },
+                        {
+                           "classic": 0.0414
+                        },
+                        {
+                           "v-neck": 0.03117
+                        },
+                        {
+                           "high-neck": 0.0147
+                        },
+                        {
+                           "notched-collar": 0.0034
+                        },
+                        {
+                           "other": 0.0015
+                        },
+                        {
+                           "boat-neckline": 7.4E-4
+                        },
+                        {
+                           "off-shoulder": 5.7E-4
+                        },
+                        {
+                           "turtleneck": 3.5E-4
+                        },
+                        {
+                           "hoodie": 2.4E-4
+                        },
+                        {
+                           "square-neck": 1.0E-4
+                        },
+                        {
+                           "sweetheart": 3.0E-5
+                        },
+                        {
+                           "cowl-neck": 1.0E-5
+                        },
+                        {
+                           "collarless": 0
+                        },
+                        {
+                           "shawl-collar": 0
+                        }
+                     ]
+                  },
+                  "sleeve_length": {
+                     "correct": [
+                        {
+                           "short-sleeve": 0.73758
+                        }
+                     ],
+                     "all": [
+                        {
+                           "short-sleeve": 0.73758
+                        },
+                        {
+                           "medium-sleeve": 0.37262
+                        },
+                        {
+                           "3/4-sleeve": 0.00767
+                        },
+                        {
+                           "sleeveless": 0.00396
+                        },
+                        {
+                           "long-sleeve": 0.00284
+                        },
+                        {
+                           "straps": 4.6E-4
+                        },
+                        {
+                           "strapless": 0
+                        }
+                     ]
+                  },
+                  "tops_length": {
+                     "correct": [
+                        {
+                           "short": 0.3133
+                        }
+                     ],
+                     "all": [
+                        {
+                           "short": 0.3133
+                        },
+                        {
+                           "thigh-length": 0.06787
+                        },
+                        {
+                           "cropped": 4.1E-4
+                        },
+                        {
+                           "long": 2.0E-5
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "blue": 0.42754
+                        }
+                     ],
+                     "all": [
+                        {
+                           "blue": 0.42754
+                        },
+                        {
+                           "gray": 0.05228
+                        },
+                        {
+                           "multicolor": 0.01449
+                        },
+                        {
+                           "white": 0.01351
+                        },
+                        {
+                           "green": 0.01245
+                        },
+                        {
+                           "black": 0.00197
+                        },
+                        {
+                           "purple": 9.5E-4
+                        },
+                        {
+                           "orange": 9.3E-4
+                        },
+                        {
+                           "yellow": 8.0E-4
+                        },
+                        {
+                           "ecru": 7.8E-4
+                        },
+                        {
+                           "red": 7.8E-4
+                        },
+                        {
+                           "beige": 6.6E-4
+                        },
+                        {
+                           "pink": 6.0E-4
+                        },
+                        {
+                           "brown": 2.1E-4
+                        },
+                        {
+                           "silver": 5.0E-5
+                        },
+                        {
+                           "gold": 1.0E-5
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "plain": 0.34143
+                        }
+                     ],
+                     "all": [
+                        {
+                           "plain": 0.34143
+                        },
+                        {
+                           "melange": 0.02019
+                        },
+                        {
+                           "logoprint": 0.01173
+                        },
+                        {
+                           "striped": 0.00477
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "dotted": 0.00104
+                        },
+                        {
+                           "floral": 6.1E-4
+                        },
+                        {
+                           "bleached": 5.1E-4
+                        },
+                        {
+                           "checked": 4.9E-4
+                        },
+                        {
+                           "paisley": 3.8E-4
+                        },
+                        {
+                           "lace": 1.5E-4
+                        },
+                        {
+                           "ruffle": 1.5E-4
+                        },
+                        {
+                           "leaf": 1.5E-4
+                        },
+                        {
+                           "metallic": 1.4E-4
+                        },
+                        {
+                           "chevron": 6.0E-5
+                        },
+                        {
+                           "color-block": 5.0E-5
+                        },
+                        {
+                           "studded": 4.0E-5
+                        },
+                        {
+                           "animal": 3.0E-5
+                        },
+                        {
+                           "leopard": 3.0E-5
+                        },
+                        {
+                           "lurex": 3.0E-5
+                        },
+                        {
+                           "glitter": 1.0E-5
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#6686b2",
+                  "#7291bc",
+                  "#5976a0"
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-19121382-MDL-FNT.png",
+               "extra_images": [
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19121382-MDL-BCK.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19121382-MDL-CRP.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19121382-MDL-DTL.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19121382-FNT.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19121382-MDL-NST.png"
+               ],
+               "verified": false
+            },
+            "149361_221-10": {
+               "category": "t-shirts_ss",
+               "attributes": {
+                  "collar": {
+                     "correct": [
+                        {
+                           "crewneck": 0.34733
+                        }
+                     ],
+                     "all": [
+                        {
+                           "crewneck": 0.34733
+                        },
+                        {
+                           "grandad": 0.17745
+                        },
+                        {
+                           "round-neck": 0.09985
+                        },
+                        {
+                           "button-down": 0.0898
+                        },
+                        {
+                           "classic": 0.07975
+                        },
+                        {
+                           "v-neck": 0.07224
+                        },
+                        {
+                           "high-neck": 0.00928
+                        },
+                        {
+                           "boat-neckline": 0.00898
+                        },
+                        {
+                           "notched-collar": 0.00391
+                        },
+                        {
+                           "other": 0.0015
+                        },
+                        {
+                           "hoodie": 9.4E-4
+                        },
+                        {
+                           "square-neck": 8.0E-4
+                        },
+                        {
+                           "turtleneck": 6.2E-4
+                        },
+                        {
+                           "off-shoulder": 4.2E-4
+                        },
+                        {
+                           "sweetheart": 1.8E-4
+                        },
+                        {
+                           "cowl-neck": 1.0E-4
+                        },
+                        {
+                           "collarless": 1.0E-5
+                        },
+                        {
+                           "shawl-collar": 1.0E-5
+                        }
+                     ]
+                  },
+                  "sleeve_length": {
+                     "correct": [
+                        {
+                           "short-sleeve": 0.58735
+                        }
+                     ],
+                     "all": [
+                        {
+                           "short-sleeve": 0.58735
+                        },
+                        {
+                           "medium-sleeve": 0.30071
+                        },
+                        {
+                           "3/4-sleeve": 0.01407
+                        },
+                        {
+                           "sleeveless": 0.0035
+                        },
+                        {
+                           "long-sleeve": 0.00243
+                        },
+                        {
+                           "straps": 4.6E-4
+                        },
+                        {
+                           "strapless": 2.0E-5
+                        }
+                     ]
+                  },
+                  "tops_length": {
+                     "correct": [
+                        {
+                           "short": 0.28023
+                        }
+                     ],
+                     "all": [
+                        {
+                           "short": 0.28023
+                        },
+                        {
+                           "thigh-length": 0.05784
+                        },
+                        {
+                           "cropped": 1.2E-4
+                        },
+                        {
+                           "long": 5.0E-5
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "multicolor": 0.48125
+                        }
+                     ],
+                     "all": [
+                        {
+                           "multicolor": 0.48125
+                        },
+                        {
+                           "red": 0.08322
+                        },
+                        {
+                           "orange": 0.01901
+                        },
+                        {
+                           "white": 0.00327
+                        },
+                        {
+                           "pink": 0.00246
+                        },
+                        {
+                           "black": 9.1E-4
+                        },
+                        {
+                           "blue": 5.9E-4
+                        },
+                        {
+                           "yellow": 2.8E-4
+                        },
+                        {
+                           "ecru": 2.3E-4
+                        },
+                        {
+                           "green": 2.0E-4
+                        },
+                        {
+                           "brown": 1.5E-4
+                        },
+                        {
+                           "beige": 1.3E-4
+                        },
+                        {
+                           "silver": 1.1E-4
+                        },
+                        {
+                           "gold": 6.0E-5
+                        },
+                        {
+                           "gray": 6.0E-5
+                        },
+                        {
+                           "purple": 5.0E-5
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "striped": 0.43319
+                        }
+                     ],
+                     "all": [
+                        {
+                           "striped": 0.43319
+                        },
+                        {
+                           "animal": 0.01693
+                        },
+                        {
+                           "logoprint": 0.01531
+                        },
+                        {
+                           "floral": 0.00231
+                        },
+                        {
+                           "dotted": 0.00223
+                        },
+                        {
+                           "melange": 0.00166
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "chevron": 8.3E-4
+                        },
+                        {
+                           "ruffle": 5.4E-4
+                        },
+                        {
+                           "checked": 4.5E-4
+                        },
+                        {
+                           "metallic": 3.3E-4
+                        },
+                        {
+                           "paisley": 3.3E-4
+                        },
+                        {
+                           "leaf": 3.1E-4
+                        },
+                        {
+                           "lace": 2.7E-4
+                        },
+                        {
+                           "leopard": 1.8E-4
+                        },
+                        {
+                           "studded": 1.4E-4
+                        },
+                        {
+                           "bleached": 1.3E-4
+                        },
+                        {
+                           "color-block": 1.1E-4
+                        },
+                        {
+                           "glitter": 1.1E-4
+                        },
+                        {
+                           "lurex": 6.0E-5
+                        },
+                        {
+                           "plain": 0
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#ece4e0",
+                  "#ee3e2d",
+                  "#e8b2a8"
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-19120003-FNT.png",
+               "extra_images": [
+                  "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/20BB9F31-F721-41DB-BD8405DE572C5E5F/Xlarge_PNG-19120003-DTL.png"
+               ],
+               "verified": false
+            }
+         },
+         "number_of_products": 2,
+         "verified_products": 0
+      },
+      "sweat_pants": {
+         "products": {
+            "149291_606-10": {
+               "category": "sweat_pants",
+               "attributes": {
+                  "rise": {
+                     "correct": [
+                        {
+                           "mid-rise": 0.25916
+                        }
+                     ],
+                     "all": [
+                        {
+                           "mid-rise": 0.25916
+                        },
+                        {
+                           "high-rise": 0.06549
+                        },
+                        {
+                           "low-rise": 5.7E-4
+                        }
+                     ]
+                  },
+                  "fit": {
+                     "correct": [
+                        {
+                           "wide-leg-fit": 0.04648
+                        }
+                     ],
+                     "all": [
+                        {
+                           "wide-leg-fit": 0.04648
+                        },
+                        {
+                           "slim-fit": 0.0129
+                        },
+                        {
+                           "regular-fit": 0.00673
+                        },
+                        {
+                           "super-skinny-fit": 0.00673
+                        },
+                        {
+                           "super-slim-fit": 0.00659
+                        },
+                        {
+                           "boyfriend-fit": 9.7E-4
+                        },
+                        {
+                           "loose-fit": 9.7E-4
+                        },
+                        {
+                           "relaxed-fit": 7.6E-4
+                        },
+                        {
+                           "tailored-fit": 7.6E-4
+                        },
+                        {
+                           "jogger-fit": 6.3E-4
+                        },
+                        {
+                           "straight-fit": 5.5E-4
+                        },
+                        {
+                           "flared-fit": 4.2E-4
+                        },
+                        {
+                           "skinny-fit": 2.8E-4
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "gray": 0.4724
+                        }
+                     ],
+                     "all": [
+                        {
+                           "gray": 0.4724
+                        },
+                        {
+                           "multicolor": 0.3382
+                        },
+                        {
+                           "silver": 0.07203
+                        },
+                        {
+                           "ecru": 0.03838
+                        },
+                        {
+                           "beige": 0.0219
+                        },
+                        {
+                           "green": 0.01832
+                        },
+                        {
+                           "blue": 0.0157
+                        },
+                        {
+                           "white": 0.01149
+                        },
+                        {
+                           "gold": 0.00969
+                        },
+                        {
+                           "black": 0.00633
+                        },
+                        {
+                           "brown": 0.00546
+                        },
+                        {
+                           "pink": 0.00416
+                        },
+                        {
+                           "purple": 0.00296
+                        },
+                        {
+                           "yellow": 0.00133
+                        },
+                        {
+                           "orange": 4.0E-4
+                        },
+                        {
+                           "red": 2.7E-4
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "melange": 0.33261
+                        }
+                     ],
+                     "all": [
+                        {
+                           "melange": 0.33261
+                        },
+                        {
+                           "lurex": 0.0485
+                        },
+                        {
+                           "metallic": 0.04402
+                        },
+                        {
+                           "logoprint": 0.02939
+                        },
+                        {
+                           "lace": 0.02858
+                        },
+                        {
+                           "striped": 0.02322
+                        },
+                        {
+                           "plain": 0.01309
+                        },
+                        {
+                           "animal": 0.00945
+                        },
+                        {
+                           "leopard": 0.00945
+                        },
+                        {
+                           "ruffle": 0.00876
+                        },
+                        {
+                           "floral": 0.00869
+                        },
+                        {
+                           "bleached": 0.00796
+                        },
+                        {
+                           "glitter": 0.00723
+                        },
+                        {
+                           "checked": 0.00616
+                        },
+                        {
+                           "leaf": 0.00348
+                        },
+                        {
+                           "studded": 0.00281
+                        },
+                        {
+                           "dotted": 0.00202
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "paisley": 0.0012
+                        },
+                        {
+                           "chevron": 8.4E-4
+                        },
+                        {
+                           "color-block": 1.1E-4
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#ccccc5",
+                  "#bcbcb5",
+                  "#ddddd7"
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-EE29E64C-A7DC-4676-9F049673DDBE0CB8.png",
+               "extra_images": [
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-4485F54A-5BAF-4EC3-AC3A3481A893C67E.png"
+               ],
+               "verified": false
+            },
+            "151305_17-L": {
+               "category": "sweat_pants",
+               "attributes": {
+                  "rise": {
+                     "correct": [
+                        {
+                           "high-rise": 0.0269
+                        }
+                     ],
+                     "all": [
+                        {
+                           "high-rise": 0.0269
+                        },
+                        {
+                           "mid-rise": 0.00562
+                        },
+                        {
+                           "low-rise": 4.0E-5
+                        }
+                     ]
+                  },
+                  "fit": {
+                     "correct": [
+                        {
+                           "slim-fit": 0.01203
+                        }
+                     ],
+                     "all": [
+                        {
+                           "slim-fit": 0.01203
+                        },
+                        {
+                           "super-slim-fit": 0.00651
+                        },
+                        {
+                           "regular-fit": 0.00637
+                        },
+                        {
+                           "super-skinny-fit": 0.00637
+                        },
+                        {
+                           "boyfriend-fit": 0.00418
+                        },
+                        {
+                           "loose-fit": 0.00418
+                        },
+                        {
+                           "flared-fit": 0.00377
+                        },
+                        {
+                           "jogger-fit": 0.00374
+                        },
+                        {
+                           "relaxed-fit": 0.00245
+                        },
+                        {
+                           "tailored-fit": 0.00245
+                        },
+                        {
+                           "wide-leg-fit": 0.00158
+                        },
+                        {
+                           "skinny-fit": 9.9E-4
+                        },
+                        {
+                           "straight-fit": 7.2E-4
+                        }
+                     ]
+                  },
+                  "color": {
+                     "correct": [
+                        {
+                           "blue": 0.80294
+                        }
+                     ],
+                     "all": [
+                        {
+                           "blue": 0.80294
+                        },
+                        {
+                           "multicolor": 0.15871
+                        },
+                        {
+                           "black": 0.04895
+                        },
+                        {
+                           "red": 0.00586
+                        },
+                        {
+                           "gray": 0.00559
+                        },
+                        {
+                           "purple": 0.00546
+                        },
+                        {
+                           "white": 0.00453
+                        },
+                        {
+                           "orange": 0.0026
+                        },
+                        {
+                           "yellow": 0.00188
+                        },
+                        {
+                           "green": 6.5E-4
+                        },
+                        {
+                           "pink": 6.2E-4
+                        },
+                        {
+                           "beige": 5.2E-4
+                        },
+                        {
+                           "brown": 4.4E-4
+                        },
+                        {
+                           "ecru": 2.7E-4
+                        },
+                        {
+                           "silver": 5.0E-5
+                        },
+                        {
+                           "gold": 4.0E-5
+                        }
+                     ]
+                  },
+                  "pattern": {
+                     "correct": [
+                        {
+                           "plain": 0.2464
+                        }
+                     ],
+                     "all": [
+                        {
+                           "plain": 0.2464
+                        },
+                        {
+                           "striped": 0.02849
+                        },
+                        {
+                           "logoprint": 0.00693
+                        },
+                        {
+                           "dotted": 0.00318
+                        },
+                        {
+                           "checked": 0.00156
+                        },
+                        {
+                           "reversible": 0.0015
+                        },
+                        {
+                           "floral": 0.00146
+                        },
+                        {
+                           "animal": 0.00113
+                        },
+                        {
+                           "melange": 7.8E-4
+                        },
+                        {
+                           "ruffle": 7.5E-4
+                        },
+                        {
+                           "paisley": 7.3E-4
+                        },
+                        {
+                           "metallic": 4.4E-4
+                        },
+                        {
+                           "leopard": 4.1E-4
+                        },
+                        {
+                           "color-block": 3.6E-4
+                        },
+                        {
+                           "chevron": 3.0E-4
+                        },
+                        {
+                           "leaf": 2.6E-4
+                        },
+                        {
+                           "lace": 2.0E-4
+                        },
+                        {
+                           "studded": 1.1E-4
+                        },
+                        {
+                           "bleached": 1.1E-4
+                        },
+                        {
+                           "glitter": 3.0E-5
+                        },
+                        {
+                           "lurex": 2.0E-5
+                        }
+                     ]
+                  }
+               },
+               "hex_codes": [
+                  "#06183d",
+                  "#1e3a64",
+                  ""
+               ],
+               "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/1582813098636524/Xlarge_PNG-B8430E50-3EEE-46E5-9BD59C396F5618B7.png",
+               "extra_images": [
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-A80617BA-AF6A-46AC-AA362074FA33DE4A.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-D8ECBEAB-E0EC-4766-895BC39409C1C3F9.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-E4D10E31-C309-4340-8BE423C103CF7DB8.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19124720-FNT.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-19124720-DTL.png",
+                  "https://s3-pixyle-saas.s3.amazonaws.com/images_white_background/full/Xlarge_PNG-E488A6C1-6D66-4C4A-AE4EA9E8149B8AD3.png"
+               ],
+               "verified": false
+            }
+         },
+         "number_of_products": 2,
+         "verified_products": 0
+      }
+   },
+   "number_of_products_all": 8,
+   "verified_products_all": 0
+}

@@ -1,0 +1,7 @@
+--name=Pixyle
+Autobots/Authentication/Account_Settings.robot
+Autobots/Authentication/Authentication.robot
+Autobots/QA_collection/Jeans/Jeans_card.robot
+Autobots/QA_collection/Jackets/Jackets_card.robot
+Autobots/QA_collection/T_Shirts/TShirts_card.robot
+Autobots/QA_collection/Sweat_Pants/SweatPants_card.robot

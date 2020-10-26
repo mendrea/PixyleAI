@@ -1,0 +1,281 @@
+======================================
+PIXYLE.AI - Automatic Tagging Notes
+======================================
+Username: FrontEnd
+Password: Frontend123#
+======================================
+
+Exploratory Testing:
+---------
+Issue #1:
+---------
+OnPage load in console:
+GET http://autotagdemo.s3-website.eu-central-1.amazonaws.com/assets/bootstrap-4.1.3/css/bootstrap.min.css net::ERR_ABORTED 404 (Not Found)
+and 
+GET http://autotagdemo.s3-website.eu-central-1.amazonaws.com/favicon.ico 404 (Not Found)
+1. Login with Username and Password and press Enter - does not work (must click on button with mouse)
+
+---------
+Issue #2:
+---------
+1. Login and navigate to Account Settings
+2. Click on the "My Collections" link on the upper left side (or from settings icon)
+3. In console: GET https://pva.pixyle.ai/v2/autotag/status/15820138557887452 500 (INTERNAL SERVER ERROR)
+*Same issue appears when trying to delete a collection without checking one. 
+
+---------
+Issue #3:
+---------
+1. Login and Upload a collection successfully
+2. Delete the uploaded one
+3. Click on the delete button again without checking new collection to delete
+4. Are you sure you want to delete this collection? dialog box appears even tough no collection has been selected!
+* once a collection was deleted another one on the dashboard was selected automatically! 
+
+---------
+Issue #4:
+---------
+Just check a collection and in console GET https://pva.pixyle.ai/v2/autotag/status/15820138557887452 500 (INTERNAL SERVER ERROR)
+
+---------
+Issue #5:
+---------
+1. Rename a collection to EMPTY (add spaces) it is possible
+2. Type anything and press ENTER - it discards and goes back to collection list (it should save)
+
+---------
+Issue #6:
+---------
+1. Upload collection and during process close the dialog window
+2. 2 QA_Collections appear with the same name appear
+* GET https://pva.pixyle.ai/v2/autotag/status/15821471456880457 400 (BAD REQUEST)
+
+---------
+Issue #7:
+---------
+1. Delete bulk - 2 collections with same name
+2. One is deleted one remains
+
+---------
+Issue #8:
+---------
+1. Delete collection  - page refreshes all the time and unchecks the collection
+
+How many times I can enter wrong credentials (block account?)
+Spelling mistake - successfull should be successful
+Refresh tagging does not work - need to reload page in order to see any progress - The tagging of your products is in progress... Please wait untill!=until it's done dlgbox
+
+Account Settings - Change Password on EMPTY input AccountSettingsPage.js:105 POST https://pva.pixyle.ai/v2/password/change 422 (UNPROCESSABLE ENTITY)
+
+DISCONNECT CONSOLE ERROR:
+---------------------------
+service.js:90 GET https://pva.pixyle.ai/v2/autotag/dashboard net::ERR_INTERNET_DISCONNECTED
+T @ service.js:90
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+(anonymous) @ RightDashboardSection.js:193
+c @ runtime.js:45
+(anonymous) @ runtime.js:264
+E.forEach.e.<computed> @ runtime.js:98
+r @ asyncToGenerator.js:3
+s @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+(anonymous) @ RightDashboardSection.js:183
+Promise.then (async)
+a.callAPI @ RightDashboardSection.js:183
+a.onStartTagHandler @ RightDashboardSection.js:305
+onClick @ RightDashboardSection.js:1023
+m @ react-dom.production.min.js:80
+x @ react-dom.production.min.js:100
+(anonymous) @ react-dom.production.min.js:104
+_ @ react-dom.production.min.js:124
+j @ react-dom.production.min.js:153
+S @ react-dom.production.min.js:142
+P @ react-dom.production.min.js:166
+On @ react-dom.production.min.js:1676
+ce @ react-dom.production.min.js:7257
+jn @ react-dom.production.min.js:1741
+Nn @ react-dom.production.min.js:1778
+Pn @ react-dom.production.min.js:1753
+t.unstable_runWithPriority @ scheduler.production.min.js:270
+Yo @ react-dom.production.min.js:2794
+se @ react-dom.production.min.js:7242
+Sn @ react-dom.production.min.js:1710
+service.js:104 TypeError: Failed to fetch
+RightDashboardSection.js:187 Uncaught (in promise) TypeError: t.filter is not a function
+    at RightDashboardSection.js:187
+    at c (runtime.js:45)
+    at Generator._invoke (runtime.js:264)
+    at Generator.E.forEach.e.<computed> [as next] (runtime.js:98)
+    at r (asyncToGenerator.js:3)
+    at s (asyncToGenerator.js:25)
+    at asyncToGenerator.js:32
+    at new Promise (<anonymous>)
+    at asyncToGenerator.js:21
+    at RightDashboardSection.js:183
+
+
+
+
+====================================== AUTOMATIC TAGGING - USER STORIES ===============================================
+
+1. Authentication (Login/Logout) -> DONE
+2. Dashboard:
+	2.1 Status data to be shown -> IN PROGRESS
+	2.2 Option avaialble: ADD EXPORT RENAME DELETE ->TBD
+	2.3 Collections: Upload/Delete failed upload verification (force to fail?) -> IN PROGRESS
+	2.4 Search by Product ID -> TBD
+	2.5 Menu: Upload Collection, My Collection, Settings and Log Out - ?IN PROGRESS
+3. Collection:
+	3.1 Categories (Jeans, Jackets, T-Shirts, Sweat Pants) -> DONE
+	3.2 Status Pending or Verified (filter) -> IN PROGRESS
+	3.3 Pagination/Navigation -> TBD
+	3.4 Verify Product and Category Attributes (UI/UX and JSON) -> IN PROGRESS
+	3.5 Adding/Remove attributes from list verification -> TBD
+	3.6 Clear Changes verification -> TBD
+4. Account Settings: Change password verification -> TBD
+========================================================================================================================
+Implementation for Jackets - update test specs!

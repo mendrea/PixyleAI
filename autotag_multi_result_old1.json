@@ -1,0 +1,1959 @@
+{
+    "no_detections": [],
+    "errors": [],
+    "detected_categories": {
+        "jeans": {
+            "products": {
+                "150282_2812-27/32": {
+                    "category": "jeans",
+                    "attributes": {
+                        "rise": {
+                            "correct": [
+                                {
+                                    "mid rise": 0.0186
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "mid rise": 0.0186
+                                },
+                                {
+                                    "high rise": 0.00475
+                                },
+                                {
+                                    "low rise": 0.00066
+                                }
+                            ]
+                        },
+                        "fit": {
+                            "correct": [
+                                {
+                                    "skinny fit": 0.06076
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "skinny fit": 0.06076
+                                },
+                                {
+                                    "super slim fit": 0.05081
+                                },
+                                {
+                                    "slim fit": 0.04086
+                                },
+                                {
+                                    "regular fit": 0.02181
+                                },
+                                {
+                                    "super skinny fit": 0.02181
+                                },
+                                {
+                                    "straight fit": 0.00276
+                                },
+                                {
+                                    "relaxed fit": 0.00228
+                                },
+                                {
+                                    "tailored fit": 0.00228
+                                },
+                                {
+                                    "boyfriend fit": 0.00181
+                                },
+                                {
+                                    "loose fit": 0.00181
+                                },
+                                {
+                                    "flared fit": 0.00092
+                                },
+                                {
+                                    "wide leg fit": 0.00014
+                                },
+                                {
+                                    "jogger fit": 4e-05
+                                }
+                            ]
+                        },
+                        "wash": {
+                            "correct": [
+                                {
+                                    "medium": 0.53549
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "medium": 0.53549
+                                },
+                                {
+                                    "light": 0.43909
+                                },
+                                {
+                                    "dark": 0.43851
+                                },
+                                {
+                                    "damaged": 0.05892
+                                },
+                                {
+                                    "coloured": 0
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "blue": 0.74175
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "blue": 0.74175
+                                },
+                                {
+                                    "multicolor": 0.01945
+                                },
+                                {
+                                    "gray": 0.00971
+                                },
+                                {
+                                    "white": 0.00283
+                                },
+                                {
+                                    "beige": 0.00108
+                                },
+                                {
+                                    "black": 0.00094
+                                },
+                                {
+                                    "ecru": 0.00094
+                                },
+                                {
+                                    "green": 0.00091
+                                },
+                                {
+                                    "red": 0.00052
+                                },
+                                {
+                                    "pink": 0.00043
+                                },
+                                {
+                                    "purple": 0.00026
+                                },
+                                {
+                                    "orange": 0.00023
+                                },
+                                {
+                                    "silver": 0.0002
+                                },
+                                {
+                                    "brown": 0.00012
+                                },
+                                {
+                                    "yellow": 7e-05
+                                },
+                                {
+                                    "gold": 1e-05
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "bleached": 0.04233
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "bleached": 0.04233
+                                },
+                                {
+                                    "plain": 0.00901
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "melange": 0.00071
+                                },
+                                {
+                                    "logoprint": 0.00048
+                                },
+                                {
+                                    "striped": 0.00044
+                                },
+                                {
+                                    "dotted": 0.00038
+                                },
+                                {
+                                    "lace": 0.00027
+                                },
+                                {
+                                    "metallic": 0.00025
+                                },
+                                {
+                                    "floral": 0.00016
+                                },
+                                {
+                                    "checked": 0.00014
+                                },
+                                {
+                                    "studded": 9e-05
+                                },
+                                {
+                                    "paisley": 6e-05
+                                },
+                                {
+                                    "animal": 4e-05
+                                },
+                                {
+                                    "leopard": 4e-05
+                                },
+                                {
+                                    "lurex": 4e-05
+                                },
+                                {
+                                    "color block": 3e-05
+                                },
+                                {
+                                    "leaf": 3e-05
+                                },
+                                {
+                                    "glitter": 1e-05
+                                },
+                                {
+                                    "chevron": 1e-05
+                                },
+                                {
+                                    "ruffle": 0
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#53799d",
+                        "#819eb7",
+                        "#688bab"
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-19119847-MDL-FNT.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/F96CDE59-7938-4067-899B23DFD7899571/Xlarge_PNG-19119847-MDL-SDE.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/71898B65-E896-4C89-A44C2D1B98CCC8C0/Xlarge_PNG-19119847-MDL-BCK.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/E3EC890C-60EC-4C11-AFEB8A94BE83E9F1/Xlarge_PNG-19119847-MDL-CRP.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/EDE7E698-2EAF-4C2C-9EFD51BC131F1A93/Xlarge_PNG-19119847-FNT.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/5AF19B66-EAC8-489E-B4D3640918D441BC/Xlarge_PNG-19119847-BCK.png"
+                    ],
+                    "verified": true
+                },
+                "150980_2986-10": {
+                    "category": "jeans",
+                    "attributes": {
+                        "rise": {
+                            "correct": [
+                                {
+                                    "mid rise": 0.06616
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "mid rise": 0.06616
+                                },
+                                {
+                                    "high rise": 0.06157
+                                },
+                                {
+                                    "low rise": 0.00068
+                                }
+                            ]
+                        },
+                        "fit": {
+                            "correct": [
+                                {
+                                    "slim fit": 0.01691
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "slim fit": 0.01691
+                                },
+                                {
+                                    "regular fit": 0.01502
+                                },
+                                {
+                                    "super skinny fit": 0.01502
+                                },
+                                {
+                                    "straight fit": 0.01312
+                                },
+                                {
+                                    "super slim fit": 0.01109
+                                },
+                                {
+                                    "relaxed fit": 0.00721
+                                },
+                                {
+                                    "tailored fit": 0.00721
+                                },
+                                {
+                                    "skinny fit": 0.00526
+                                },
+                                {
+                                    "flared fit": 0.00224
+                                },
+                                {
+                                    "boyfriend fit": 0.00129
+                                },
+                                {
+                                    "loose fit": 0.00129
+                                },
+                                {
+                                    "jogger fit": 0.00071
+                                },
+                                {
+                                    "wide leg fit": 0.00011
+                                }
+                            ]
+                        },
+                        "wash": {
+                            "correct": [
+                                {
+                                    "dark": 0.50022
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "dark": 0.50022
+                                },
+                                {
+                                    "medium": 0.47945
+                                },
+                                {
+                                    "light": 0.39783
+                                },
+                                {
+                                    "damaged": 0.01491
+                                },
+                                {
+                                    "coloured": 0
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "gray": 0.64368
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "gray": 0.64368
+                                },
+                                {
+                                    "blue": 0.26641
+                                },
+                                {
+                                    "black": 0.07283
+                                },
+                                {
+                                    "multicolor": 0.01685
+                                },
+                                {
+                                    "green": 0.00632
+                                },
+                                {
+                                    "silver": 0.00367
+                                },
+                                {
+                                    "brown": 0.0025
+                                },
+                                {
+                                    "purple": 0.00115
+                                },
+                                {
+                                    "red": 0.00086
+                                },
+                                {
+                                    "white": 0.00073
+                                },
+                                {
+                                    "pink": 0.00071
+                                },
+                                {
+                                    "ecru": 0.00038
+                                },
+                                {
+                                    "beige": 0.00035
+                                },
+                                {
+                                    "orange": 0.00016
+                                },
+                                {
+                                    "yellow": 0.00013
+                                },
+                                {
+                                    "gold": 0.00011
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "plain": 0.22062
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "plain": 0.22062
+                                },
+                                {
+                                    "bleached": 0.02981
+                                },
+                                {
+                                    "melange": 0.01874
+                                },
+                                {
+                                    "logoprint": 0.00608
+                                },
+                                {
+                                    "striped": 0.00478
+                                },
+                                {
+                                    "metallic": 0.00304
+                                },
+                                {
+                                    "dotted": 0.00236
+                                },
+                                {
+                                    "checked": 0.00197
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "animal": 0.00126
+                                },
+                                {
+                                    "studded": 0.00126
+                                },
+                                {
+                                    "lurex": 0.00124
+                                },
+                                {
+                                    "color block": 0.00055
+                                },
+                                {
+                                    "lace": 0.0004
+                                },
+                                {
+                                    "glitter": 0.00025
+                                },
+                                {
+                                    "paisley": 0.0002
+                                },
+                                {
+                                    "chevron": 0.00019
+                                },
+                                {
+                                    "floral": 0.00017
+                                },
+                                {
+                                    "leopard": 7e-05
+                                },
+                                {
+                                    "leaf": 5e-05
+                                },
+                                {
+                                    "ruffle": 4e-05
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#444449",
+                        "#4f5054",
+                        ""
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-19124247-FNT.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/514D6198-3A94-44A4-9E6647C83B89D512/0D3B8782-38A9-40E7-9EC236F8B70D53DE/Xlarge_PNG-19124247-BCK.png"
+                    ],
+                    "verified": true
+                }
+            },
+            "number_of_products": 2,
+            "verified_products": 2
+        },
+        "jackets": {
+            "products": {
+                "150444_90-L": {
+                    "category": "jackets",
+                    "attributes": {
+                        "collar": {
+                            "correct": [
+                                {
+                                    "v neck": 0.1318
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "v neck": 0.1318
+                                },
+                                {
+                                    "notched collar": 0.0572
+                                },
+                                {
+                                    "classic": 0.03096
+                                },
+                                {
+                                    "button down": 0.02904
+                                },
+                                {
+                                    "high neck": 0.02712
+                                },
+                                {
+                                    "round neck": 0.01172
+                                },
+                                {
+                                    "hoodie": 0.01008
+                                },
+                                {
+                                    "shawl collar": 0.00615
+                                },
+                                {
+                                    "turtleneck": 0.00439
+                                },
+                                {
+                                    "off shoulder": 0.00216
+                                },
+                                {
+                                    "other": 0.0015
+                                },
+                                {
+                                    "boat neckline": 0.00109
+                                },
+                                {
+                                    "sweetheart": 0.00095
+                                },
+                                {
+                                    "square neck": 0.00092
+                                },
+                                {
+                                    "collarless": 0.00082
+                                },
+                                {
+                                    "crewneck": 0.00073
+                                },
+                                {
+                                    "cowl neck": 0.00013
+                                },
+                                {
+                                    "grandad": 0.0
+                                }
+                            ]
+                        },
+                        "sleeve length": {
+                            "correct": [
+                                {
+                                    "long sleeve": 0.3409
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "long sleeve": 0.3409
+                                },
+                                {
+                                    "3/4 sleeve": 0.03606
+                                },
+                                {
+                                    "medium sleeve": 0.02066
+                                },
+                                {
+                                    "sleeveless": 0.01273
+                                },
+                                {
+                                    "short sleeve": 0.00527
+                                },
+                                {
+                                    "straps": 0.00375
+                                },
+                                {
+                                    "strapless": 0.00133
+                                }
+                            ]
+                        },
+                        "length": {
+                            "correct": [
+                                {
+                                    "medium": 0.11765
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "medium": 0.11765
+                                },
+                                {
+                                    "short": 0.0839
+                                },
+                                {
+                                    "long": 0.04322
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "black": 0.77669
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "black": 0.77669
+                                },
+                                {
+                                    "multicolor": 0.02082
+                                },
+                                {
+                                    "gray": 0.01917
+                                },
+                                {
+                                    "white": 0.00813
+                                },
+                                {
+                                    "blue": 0.00736
+                                },
+                                {
+                                    "purple": 0.00281
+                                },
+                                {
+                                    "red": 0.00205
+                                },
+                                {
+                                    "brown": 0.0016
+                                },
+                                {
+                                    "green": 0.00157
+                                },
+                                {
+                                    "beige": 0.00043
+                                },
+                                {
+                                    "silver": 0.00041
+                                },
+                                {
+                                    "ecru": 0.00037
+                                },
+                                {
+                                    "pink": 0.00034
+                                },
+                                {
+                                    "yellow": 0.00023
+                                },
+                                {
+                                    "orange": 0.00015
+                                },
+                                {
+                                    "gold": 5e-05
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "plain": 0.31534
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "plain": 0.31534
+                                },
+                                {
+                                    "ruffle": 0.12162
+                                },
+                                {
+                                    "color block": 0.00522
+                                },
+                                {
+                                    "striped": 0.00481
+                                },
+                                {
+                                    "dotted": 0.003
+                                },
+                                {
+                                    "checked": 0.00288
+                                },
+                                {
+                                    "logoprint": 0.0026
+                                },
+                                {
+                                    "lace": 0.00217
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "floral": 0.00146
+                                },
+                                {
+                                    "studded": 0.00144
+                                },
+                                {
+                                    "animal": 0.0009
+                                },
+                                {
+                                    "leopard": 0.0009
+                                },
+                                {
+                                    "metallic": 0.00056
+                                },
+                                {
+                                    "chevron": 0.00029
+                                },
+                                {
+                                    "leaf": 0.00024
+                                },
+                                {
+                                    "melange": 0.00016
+                                },
+                                {
+                                    "paisley": 0.00016
+                                },
+                                {
+                                    "glitter": 4e-05
+                                },
+                                {
+                                    "lurex": 3e-05
+                                },
+                                {
+                                    "bleached": 3e-05
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#252326",
+                        "#1e1d1e",
+                        "#2b2a2c"
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-19124257-FNT.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/10D2522F-F066-46CE-A3BA6BE20AA85551/A8BAB943-1495-4D62-B058F384BA8E10BF/Xlarge_PNG-19124257-BCK.png"
+                    ],
+                    "verified": false
+                },
+                "153268_2917-10": {
+                    "category": "jackets",
+                    "attributes": {
+                        "collar": {
+                            "correct": [
+                                {
+                                    "hoodie": 0.08439
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "hoodie": 0.08439
+                                },
+                                {
+                                    "high neck": 0.0477
+                                },
+                                {
+                                    "button down": 0.04377
+                                },
+                                {
+                                    "classic": 0.03983
+                                },
+                                {
+                                    "notched collar": 0.01217
+                                },
+                                {
+                                    "round neck": 0.01071
+                                },
+                                {
+                                    "v neck": 0.00649
+                                },
+                                {
+                                    "crewneck": 0.00594
+                                },
+                                {
+                                    "turtleneck": 0.00388
+                                },
+                                {
+                                    "other": 0.0015
+                                },
+                                {
+                                    "boat neckline": 0.00075
+                                },
+                                {
+                                    "square neck": 0.00042
+                                },
+                                {
+                                    "shawl collar": 0.00039
+                                },
+                                {
+                                    "collarless": 0.00027
+                                },
+                                {
+                                    "sweetheart": 0.00021
+                                },
+                                {
+                                    "off shoulder": 0.00016
+                                },
+                                {
+                                    "cowl neck": 0.00014
+                                },
+                                {
+                                    "grandad": 0.0
+                                }
+                            ]
+                        },
+                        "sleeve length": {
+                            "correct": [
+                                {
+                                    "long sleeve": 0.18007
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "long sleeve": 0.18007
+                                },
+                                {
+                                    "3/4 sleeve": 0.00305
+                                },
+                                {
+                                    "medium sleeve": 0.00251
+                                },
+                                {
+                                    "short sleeve": 0.00197
+                                },
+                                {
+                                    "sleeveless": 0.00116
+                                },
+                                {
+                                    "straps": 0.00085
+                                },
+                                {
+                                    "strapless": 9e-05
+                                }
+                            ]
+                        },
+                        "length": {
+                            "correct": [
+                                {
+                                    "short": 0.24228
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "short": 0.24228
+                                },
+                                {
+                                    "medium": 0.09963
+                                },
+                                {
+                                    "long": 0.00163
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "yellow": 0.8267
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "yellow": 0.8267
+                                },
+                                {
+                                    "brown": 0.05175
+                                },
+                                {
+                                    "multicolor": 0.03079
+                                },
+                                {
+                                    "green": 0.00999
+                                },
+                                {
+                                    "orange": 0.00673
+                                },
+                                {
+                                    "red": 0.00283
+                                },
+                                {
+                                    "gold": 0.00275
+                                },
+                                {
+                                    "blue": 0.00208
+                                },
+                                {
+                                    "beige": 0.00182
+                                },
+                                {
+                                    "black": 0.00139
+                                },
+                                {
+                                    "white": 0.00107
+                                },
+                                {
+                                    "pink": 0.00101
+                                },
+                                {
+                                    "ecru": 0.00068
+                                },
+                                {
+                                    "gray": 0.00023
+                                },
+                                {
+                                    "purple": 8e-05
+                                },
+                                {
+                                    "silver": 4e-05
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "plain": 0.21107
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "plain": 0.21107
+                                },
+                                {
+                                    "logoprint": 0.09672
+                                },
+                                {
+                                    "metallic": 0.00475
+                                },
+                                {
+                                    "ruffle": 0.00331
+                                },
+                                {
+                                    "striped": 0.00316
+                                },
+                                {
+                                    "studded": 0.00163
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "animal": 0.00134
+                                },
+                                {
+                                    "leopard": 0.00134
+                                },
+                                {
+                                    "leaf": 0.00076
+                                },
+                                {
+                                    "lace": 0.00072
+                                },
+                                {
+                                    "floral": 0.00064
+                                },
+                                {
+                                    "melange": 0.00055
+                                },
+                                {
+                                    "checked": 0.00036
+                                },
+                                {
+                                    "color block": 0.00036
+                                },
+                                {
+                                    "chevron": 0.00025
+                                },
+                                {
+                                    "dotted": 0.00018
+                                },
+                                {
+                                    "bleached": 7e-05
+                                },
+                                {
+                                    "lurex": 6e-05
+                                },
+                                {
+                                    "paisley": 6e-05
+                                },
+                                {
+                                    "glitter": 4e-05
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#d9b705",
+                        "",
+                        ""
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-19126053-FNT.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/1C5B934C-1D70-461E-A4BC62DF8ABEDD2D/Xlarge_PNG-19126053-DTL.png"
+                    ],
+                    "verified": false
+                }
+            },
+            "number_of_products": 2,
+            "verified_products": 0
+        },
+        "t-shirts_ss": {
+            "products": {
+                "149000_0155-L": {
+                    "category": "t-shirts_ss",
+                    "attributes": {
+                        "collar": {
+                            "correct": [
+                                {
+                                    "round neck": 0.10759
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "round neck": 0.10759
+                                },
+                                {
+                                    "crewneck": 0.07851
+                                },
+                                {
+                                    "button down": 0.0745
+                                },
+                                {
+                                    "grandad": 0.05717
+                                },
+                                {
+                                    "classic": 0.0414
+                                },
+                                {
+                                    "v neck": 0.03117
+                                },
+                                {
+                                    "high neck": 0.0147
+                                },
+                                {
+                                    "notched collar": 0.0034
+                                },
+                                {
+                                    "other": 0.0015
+                                },
+                                {
+                                    "boat neckline": 0.00074
+                                },
+                                {
+                                    "off shoulder": 0.00057
+                                },
+                                {
+                                    "turtleneck": 0.00035
+                                },
+                                {
+                                    "hoodie": 0.00024
+                                },
+                                {
+                                    "square neck": 0.0001
+                                },
+                                {
+                                    "sweetheart": 3e-05
+                                },
+                                {
+                                    "cowl neck": 1e-05
+                                },
+                                {
+                                    "collarless": 0.0
+                                },
+                                {
+                                    "shawl collar": 0.0
+                                }
+                            ]
+                        },
+                        "sleeve length": {
+                            "correct": [
+                                {
+                                    "short sleeve": 0.73758
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "short sleeve": 0.73758
+                                },
+                                {
+                                    "medium sleeve": 0.37262
+                                },
+                                {
+                                    "3/4 sleeve": 0.00767
+                                },
+                                {
+                                    "sleeveless": 0.00396
+                                },
+                                {
+                                    "long sleeve": 0.00284
+                                },
+                                {
+                                    "straps": 0.00046
+                                },
+                                {
+                                    "strapless": 0.0
+                                }
+                            ]
+                        },
+                        "tops length": {
+                            "correct": [
+                                {
+                                    "short": 0.3133
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "short": 0.3133
+                                },
+                                {
+                                    "thigh length": 0.06787
+                                },
+                                {
+                                    "cropped": 0.00041
+                                },
+                                {
+                                    "long": 2e-05
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "blue": 0.42754
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "blue": 0.42754
+                                },
+                                {
+                                    "gray": 0.05228
+                                },
+                                {
+                                    "multicolor": 0.01449
+                                },
+                                {
+                                    "white": 0.01351
+                                },
+                                {
+                                    "green": 0.01245
+                                },
+                                {
+                                    "black": 0.00197
+                                },
+                                {
+                                    "purple": 0.00095
+                                },
+                                {
+                                    "orange": 0.00093
+                                },
+                                {
+                                    "yellow": 0.0008
+                                },
+                                {
+                                    "ecru": 0.00078
+                                },
+                                {
+                                    "red": 0.00078
+                                },
+                                {
+                                    "beige": 0.00066
+                                },
+                                {
+                                    "pink": 0.0006
+                                },
+                                {
+                                    "brown": 0.00021
+                                },
+                                {
+                                    "silver": 5e-05
+                                },
+                                {
+                                    "gold": 1e-05
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "plain": 0.34143
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "plain": 0.34143
+                                },
+                                {
+                                    "melange": 0.02019
+                                },
+                                {
+                                    "logoprint": 0.01173
+                                },
+                                {
+                                    "striped": 0.00477
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "dotted": 0.00104
+                                },
+                                {
+                                    "floral": 0.00061
+                                },
+                                {
+                                    "bleached": 0.00051
+                                },
+                                {
+                                    "checked": 0.00049
+                                },
+                                {
+                                    "paisley": 0.00038
+                                },
+                                {
+                                    "lace": 0.00015
+                                },
+                                {
+                                    "ruffle": 0.00015
+                                },
+                                {
+                                    "leaf": 0.00015
+                                },
+                                {
+                                    "metallic": 0.00014
+                                },
+                                {
+                                    "chevron": 6e-05
+                                },
+                                {
+                                    "color block": 5e-05
+                                },
+                                {
+                                    "studded": 4e-05
+                                },
+                                {
+                                    "animal": 3e-05
+                                },
+                                {
+                                    "leopard": 3e-05
+                                },
+                                {
+                                    "lurex": 3e-05
+                                },
+                                {
+                                    "glitter": 1e-05
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#708fba",
+                        "#6180ac",
+                        ""
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-19121382-MDL-FNT.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/53DA020A-8264-4579-A46D5D439F6BB3BD/AE3038D1-60EE-4E57-B1435AEFCD236143/Xlarge_PNG-19121382-MDL-BCK.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/58F85257-D644-4C21-A848A7CEA566CF38/CB6FE706-B706-4721-992913778EBCB325/Xlarge_PNG-19121382-MDL-CRP.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/90C9B9E3-28DE-4342-A067B797AC1C233F/5678D1D8-B17B-4FA1-BD62697C09932FFD/Xlarge_PNG-19121382-MDL-DTL.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/FB5D3AB8-81E8-42B9-89E13D6219F163D4/DBE5CBCD-02FD-400A-997B4C83FB4A15D2/Xlarge_PNG-19121382-FNT.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/3E199606-78E1-4407-ADBF9B5B18269660/CC32B257-26DA-4685-A92EBC2D6E7E991E/Xlarge_PNG-19121382-MDL-NST.png"
+                    ],
+                    "verified": false
+                },
+                "149361_221-10": {
+                    "category": "t-shirts_ss",
+                    "attributes": {
+                        "collar": {
+                            "correct": [
+                                {
+                                    "crewneck": 0.34733
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "crewneck": 0.34733
+                                },
+                                {
+                                    "grandad": 0.17745
+                                },
+                                {
+                                    "round neck": 0.09985
+                                },
+                                {
+                                    "button down": 0.0898
+                                },
+                                {
+                                    "classic": 0.07975
+                                },
+                                {
+                                    "v neck": 0.07224
+                                },
+                                {
+                                    "high neck": 0.00928
+                                },
+                                {
+                                    "boat neckline": 0.00898
+                                },
+                                {
+                                    "notched collar": 0.00391
+                                },
+                                {
+                                    "other": 0.0015
+                                },
+                                {
+                                    "hoodie": 0.00094
+                                },
+                                {
+                                    "square neck": 0.0008
+                                },
+                                {
+                                    "turtleneck": 0.00062
+                                },
+                                {
+                                    "off shoulder": 0.00042
+                                },
+                                {
+                                    "sweetheart": 0.00018
+                                },
+                                {
+                                    "cowl neck": 0.0001
+                                },
+                                {
+                                    "collarless": 1e-05
+                                },
+                                {
+                                    "shawl collar": 1e-05
+                                }
+                            ]
+                        },
+                        "sleeve length": {
+                            "correct": [
+                                {
+                                    "short sleeve": 0.58735
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "short sleeve": 0.58735
+                                },
+                                {
+                                    "medium sleeve": 0.30071
+                                },
+                                {
+                                    "3/4 sleeve": 0.01407
+                                },
+                                {
+                                    "sleeveless": 0.0035
+                                },
+                                {
+                                    "long sleeve": 0.00243
+                                },
+                                {
+                                    "straps": 0.00046
+                                },
+                                {
+                                    "strapless": 2e-05
+                                }
+                            ]
+                        },
+                        "tops length": {
+                            "correct": [
+                                {
+                                    "short": 0.28023
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "short": 0.28023
+                                },
+                                {
+                                    "thigh length": 0.05784
+                                },
+                                {
+                                    "cropped": 0.00012
+                                },
+                                {
+                                    "long": 5e-05
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "multicolor": 0.48125
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "multicolor": 0.48125
+                                },
+                                {
+                                    "red": 0.08322
+                                },
+                                {
+                                    "orange": 0.01901
+                                },
+                                {
+                                    "white": 0.00327
+                                },
+                                {
+                                    "pink": 0.00246
+                                },
+                                {
+                                    "black": 0.00091
+                                },
+                                {
+                                    "blue": 0.00059
+                                },
+                                {
+                                    "yellow": 0.00028
+                                },
+                                {
+                                    "ecru": 0.00023
+                                },
+                                {
+                                    "green": 0.0002
+                                },
+                                {
+                                    "brown": 0.00015
+                                },
+                                {
+                                    "beige": 0.00013
+                                },
+                                {
+                                    "silver": 0.00011
+                                },
+                                {
+                                    "gold": 6e-05
+                                },
+                                {
+                                    "gray": 6e-05
+                                },
+                                {
+                                    "purple": 5e-05
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "striped": 0.43319
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "striped": 0.43319
+                                },
+                                {
+                                    "animal": 0.01693
+                                },
+                                {
+                                    "logoprint": 0.01531
+                                },
+                                {
+                                    "floral": 0.00231
+                                },
+                                {
+                                    "dotted": 0.00223
+                                },
+                                {
+                                    "melange": 0.00166
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "chevron": 0.00083
+                                },
+                                {
+                                    "ruffle": 0.00054
+                                },
+                                {
+                                    "checked": 0.00045
+                                },
+                                {
+                                    "metallic": 0.00033
+                                },
+                                {
+                                    "paisley": 0.00033
+                                },
+                                {
+                                    "leaf": 0.00031
+                                },
+                                {
+                                    "lace": 0.00027
+                                },
+                                {
+                                    "leopard": 0.00018
+                                },
+                                {
+                                    "studded": 0.00014
+                                },
+                                {
+                                    "bleached": 0.00013
+                                },
+                                {
+                                    "color block": 0.00011
+                                },
+                                {
+                                    "glitter": 0.00011
+                                },
+                                {
+                                    "lurex": 6e-05
+                                },
+                                {
+                                    "plain": 0.0
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#ece4e0",
+                        "#ee3e2d",
+                        "#e8b2a8"
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-19120003-FNT.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/20BB9F31-F721-41DB-BD8405DE572C5E5F/Xlarge_PNG-19120003-DTL.png"
+                    ],
+                    "verified": false
+                }
+            },
+            "number_of_products": 2,
+            "verified_products": 0
+        },
+        "sweat_pants": {
+            "products": {
+                "151305_17-L": {
+                    "category": "sweat_pants",
+                    "attributes": {
+                        "rise": {
+                            "correct": [
+                                {
+                                    "high rise": 0.0269
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "high rise": 0.0269
+                                },
+                                {
+                                    "mid rise": 0.00562
+                                },
+                                {
+                                    "low rise": 4e-05
+                                }
+                            ]
+                        },
+                        "fit": {
+                            "correct": [
+                                {
+                                    "slim fit": 0.01203
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "slim fit": 0.01203
+                                },
+                                {
+                                    "super slim fit": 0.00651
+                                },
+                                {
+                                    "regular fit": 0.00637
+                                },
+                                {
+                                    "super skinny fit": 0.00637
+                                },
+                                {
+                                    "boyfriend fit": 0.00418
+                                },
+                                {
+                                    "loose fit": 0.00418
+                                },
+                                {
+                                    "flared fit": 0.00377
+                                },
+                                {
+                                    "jogger fit": 0.00374
+                                },
+                                {
+                                    "relaxed fit": 0.00245
+                                },
+                                {
+                                    "tailored fit": 0.00245
+                                },
+                                {
+                                    "wide leg fit": 0.00158
+                                },
+                                {
+                                    "skinny fit": 0.00099
+                                },
+                                {
+                                    "straight fit": 0.00072
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "blue": 0.80294
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "blue": 0.80294
+                                },
+                                {
+                                    "multicolor": 0.15871
+                                },
+                                {
+                                    "black": 0.04895
+                                },
+                                {
+                                    "red": 0.00586
+                                },
+                                {
+                                    "gray": 0.00559
+                                },
+                                {
+                                    "purple": 0.00546
+                                },
+                                {
+                                    "white": 0.00453
+                                },
+                                {
+                                    "orange": 0.0026
+                                },
+                                {
+                                    "yellow": 0.00188
+                                },
+                                {
+                                    "green": 0.00065
+                                },
+                                {
+                                    "pink": 0.00062
+                                },
+                                {
+                                    "beige": 0.00052
+                                },
+                                {
+                                    "brown": 0.00044
+                                },
+                                {
+                                    "ecru": 0.00027
+                                },
+                                {
+                                    "silver": 5e-05
+                                },
+                                {
+                                    "gold": 4e-05
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "plain": 0.2464
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "plain": 0.2464
+                                },
+                                {
+                                    "striped": 0.02849
+                                },
+                                {
+                                    "logoprint": 0.00693
+                                },
+                                {
+                                    "dotted": 0.00318
+                                },
+                                {
+                                    "checked": 0.00156
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "floral": 0.00146
+                                },
+                                {
+                                    "animal": 0.00113
+                                },
+                                {
+                                    "melange": 0.00078
+                                },
+                                {
+                                    "ruffle": 0.00075
+                                },
+                                {
+                                    "paisley": 0.00073
+                                },
+                                {
+                                    "metallic": 0.00044
+                                },
+                                {
+                                    "leopard": 0.00041
+                                },
+                                {
+                                    "color block": 0.00036
+                                },
+                                {
+                                    "chevron": 0.0003
+                                },
+                                {
+                                    "leaf": 0.00026
+                                },
+                                {
+                                    "lace": 0.0002
+                                },
+                                {
+                                    "studded": 0.00011
+                                },
+                                {
+                                    "bleached": 0.00011
+                                },
+                                {
+                                    "glitter": 3e-05
+                                },
+                                {
+                                    "lurex": 2e-05
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#06183d",
+                        "#1e3a65",
+                        ""
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-B8430E50-3EEE-46E5-9BD59C396F5618B7.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/BED90FD5-9CD5-4C7A-841932C22151AF6D/Xlarge_PNG-A80617BA-AF6A-46AC-AA362074FA33DE4A.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/7584A91D-15E4-404C-94FC80FC47B95078/Xlarge_PNG-D8ECBEAB-E0EC-4766-895BC39409C1C3F9.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/FE12A7A8-C31E-48CB-B5C45B066C91D641/Xlarge_PNG-E4D10E31-C309-4340-8BE423C103CF7DB8.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/7BC9B6E0-947D-4B91-B01E6BE460044BD6/1303C334-5812-4290-9011B1F4F28D8776/Xlarge_PNG-19124720-FNT.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/A8BD233F-6CC5-44A0-AA4801A116BB76A8/73156F64-8253-47AF-AE9F775ACF11AB9B/Xlarge_PNG-19124720-DTL.png",
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/3B0C71C4-07EF-47B4-9BA32B6F158BDAB0/Xlarge_PNG-E488A6C1-6D66-4C4A-AE4EA9E8149B8AD3.png"
+                    ],
+                    "verified": false
+                },
+                "149291_606-10": {
+                    "category": "sweat_pants",
+                    "attributes": {
+                        "rise": {
+                            "correct": [
+                                {
+                                    "mid rise": 0.30055
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "mid rise": 0.30055
+                                },
+                                {
+                                    "high rise": 0.06547
+                                },
+                                {
+                                    "low rise": 0.00042
+                                }
+                            ]
+                        },
+                        "fit": {
+                            "correct": [
+                                {
+                                    "wide leg fit": 0.04677
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "wide leg fit": 0.04677
+                                },
+                                {
+                                    "slim fit": 0.01324
+                                },
+                                {
+                                    "regular fit": 0.00706
+                                },
+                                {
+                                    "super skinny fit": 0.00706
+                                },
+                                {
+                                    "super slim fit": 0.00679
+                                },
+                                {
+                                    "boyfriend fit": 0.00239
+                                },
+                                {
+                                    "loose fit": 0.00239
+                                },
+                                {
+                                    "relaxed fit": 0.00163
+                                },
+                                {
+                                    "tailored fit": 0.00163
+                                },
+                                {
+                                    "straight fit": 0.00087
+                                },
+                                {
+                                    "jogger fit": 0.00057
+                                },
+                                {
+                                    "flared fit": 0.00043
+                                },
+                                {
+                                    "skinny fit": 0.00035
+                                }
+                            ]
+                        },
+                        "color": {
+                            "correct": [
+                                {
+                                    "gray": 0.43794
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "gray": 0.43794
+                                },
+                                {
+                                    "multicolor": 0.32201
+                                },
+                                {
+                                    "silver": 0.07414
+                                },
+                                {
+                                    "ecru": 0.04702
+                                },
+                                {
+                                    "white": 0.02353
+                                },
+                                {
+                                    "beige": 0.02079
+                                },
+                                {
+                                    "green": 0.01828
+                                },
+                                {
+                                    "blue": 0.0169
+                                },
+                                {
+                                    "gold": 0.00817
+                                },
+                                {
+                                    "black": 0.00691
+                                },
+                                {
+                                    "pink": 0.00586
+                                },
+                                {
+                                    "brown": 0.00531
+                                },
+                                {
+                                    "purple": 0.00242
+                                },
+                                {
+                                    "yellow": 0.00141
+                                },
+                                {
+                                    "orange": 0.00038
+                                },
+                                {
+                                    "red": 0.00029
+                                }
+                            ]
+                        },
+                        "pattern": {
+                            "correct": [
+                                {
+                                    "melange": 0.36554
+                                }
+                            ],
+                            "all": [
+                                {
+                                    "melange": 0.36554
+                                },
+                                {
+                                    "lurex": 0.05961
+                                },
+                                {
+                                    "metallic": 0.03891
+                                },
+                                {
+                                    "logoprint": 0.03663
+                                },
+                                {
+                                    "lace": 0.03538
+                                },
+                                {
+                                    "striped": 0.02421
+                                },
+                                {
+                                    "plain": 0.02197
+                                },
+                                {
+                                    "bleached": 0.02047
+                                },
+                                {
+                                    "animal": 0.01105
+                                },
+                                {
+                                    "leopard": 0.01105
+                                },
+                                {
+                                    "floral": 0.00941
+                                },
+                                {
+                                    "ruffle": 0.00907
+                                },
+                                {
+                                    "glitter": 0.00849
+                                },
+                                {
+                                    "checked": 0.00718
+                                },
+                                {
+                                    "dotted": 0.0037
+                                },
+                                {
+                                    "leaf": 0.00209
+                                },
+                                {
+                                    "studded": 0.00202
+                                },
+                                {
+                                    "reversible": 0.0015
+                                },
+                                {
+                                    "chevron": 0.00101
+                                },
+                                {
+                                    "paisley": 0.00075
+                                },
+                                {
+                                    "color block": 0.00011
+                                }
+                            ]
+                        }
+                    },
+                    "hex_codes": [
+                        "#ccccc5",
+                        "#bcbdb6",
+                        "#ddddd6"
+                    ],
+                    "primary_image": "https://pixyle-clients-images.s3.amazonaws.com/FrontEnd/15822107518446634/Xlarge_PNG-EE29E64C-A7DC-4676-9F049673DDBE0CB8.png",
+                    "extra_images": [
+                        "https://static.scotch-soda.com/media/748D4359-96AB-4676-A8E49ED5BF4B3A65/752B06CC-8415-421E-AC8F445565AD650F/Xlarge_PNG-4485F54A-5BAF-4EC3-AC3A3481A893C67E.png"
+                    ],
+                    "verified": false
+                }
+            },
+            "number_of_products": 2,
+            "verified_products": 0
+        }
+    },
+    "number_of_products_all": 8,
+    "verified_products_all": 2
+}
